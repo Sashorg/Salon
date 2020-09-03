@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Salon</string>
+    <string name="app_in_name">Beauty Salon</string>
+    <string name="app_moto">Where details means everything</string>
+    <string name="bottom">Choose your option</string>
+    <string name="name_salon">Beauty Salon</string>
+    <string name="sign">Sing In</string>
+    <string name="regist">Sing Up</string>
+    <string name="facebook_app_id">523633318182701</string>
+    <string name="fb_login_protocol_scheme">fb523633318182701</string>
+</resources>
